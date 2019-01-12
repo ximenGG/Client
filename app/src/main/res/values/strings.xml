@@ -1,0 +1,17 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="ExtraTranslation">
+    <string name="app_name">演示</string>
+    <string name="home">智能馆</string>
+    <string name="message">消息</string>
+    <string name="discovery">发现</string>
+    <string name="my">我的</string>
+    <string name="mode_home">回家模式</string>
+    <string name="mode_leaving">离家模式</string>
+    <string name="mode_viewing">观影模式</string>
+    <string name="mode_dinner">晚餐模式</string>
+    <string name="mode_sleep">睡眠模式</string>
+    <string name="mode_wake">起床模式</string>
+    <string name="device">设备</string>
+    <string name="scenes">场景</string>
+    <string name="mode_manual">手动模式</string>
+    <string name="execute">执行</string>
+</resources>

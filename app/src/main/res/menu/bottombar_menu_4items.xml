@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/item1"
+        android:icon="@drawable/robot"
+        android:title="@string/home"/>
+    <item
+        android:id="@+id/item2"
+        android:icon="@drawable/message"
+        android:title="@string/message" />
+    <item
+
+        android:id="@+id/item3"
+        android:icon="@drawable/find"
+        android:title="@string/discovery" />
+    <item
+        android:id="@+id/itme5"
+        android:icon="@drawable/mine"
+        android:title="@string/my" />
+
+</menu>
