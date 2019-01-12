@@ -10,12 +10,12 @@ package com.client.common;
 public interface Constants {
     int UDP_PORT = 9956;
     int TCP_PORT = 9957;
-    String MODE_1 = "mode_1";
-    String MODE_2 = "mode_2";
-    String MODE_3 = "mode_3";
-    String MODE_4 = "mode_4";
-    String MODE_5 = "mode_5";
-    String MODE_6 = "mode_6";
-    String MODE_7 = "mode_7";
-    String MODE_8 = "mode_8";
+    String MODE_1 = "1";
+    String MODE_2 = "2";
+    String MODE_3 = "3";
+    String MODE_4 = "4";
+    String MODE_5 = "5";
+    String MODE_6 = "6";
+    String MODE_7 = "7";
+    String MODE_8 = "8";
 }
